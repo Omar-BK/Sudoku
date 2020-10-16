@@ -1,7 +1,7 @@
 import time
 
 
-#GUI code from https://techwithtim.net/tutorials/python-programming/sudoku-solver-backtracking/
+
 board = [
   [0, 2, 0, 5, 0, 1, 0, 9, 0],
   [8, 0, 0, 2, 0, 3, 0, 0, 6],

@@ -3,7 +3,7 @@ from solver import check, valid, find_empty
 import time
 pygame.font.init()
 
-
+#GUI code from https://techwithtim.net/tutorials/python-programming/sudoku-solver-backtracking/
 class Grid:
   board = [
     [0, 2, 0, 5, 0, 1, 0, 9, 0],
